@@ -1,0 +1,12 @@
+{
+  "name": "triathlon",
+  "displayName": "triathlon",
+  "expo": {
+    "name": "triathlon",
+    "slug": "triathlon",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
